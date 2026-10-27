@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Vito Muhammad 👋
 
-<!--
-**rgt88/rgt88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Engineering/ Data Analyst / Data Scientist based in Jakarta, Indonesia. I turn raw data into clear, actionable insights using Python, SQL, ETL tools and data visualization.
 
-Here are some ideas to get you started:
+🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+📊 Featured Projects
+Project	Description	Tools
+Airbnb Host Analysis – Bangkok	Exploratory analysis of Bangkok listings to find where and what type of listing new hosts should consider.	Python, Pandas, Matplotlib
+Daegu Apartment Analysis	- Regression Linear to predict Apartment Price for sales benchmark
+Python Phonebook	Command-line phonebook app written in Python.	Python
+
+
+🎓 Background
+- Data Science & Machine Learning bootcamp – Purwadhika, 2023
+
+- PT. Bank Muamalat - Assistant Manager, Data Warehouse & MIS 2023 - Current
+
+
+📫 Let's Connect
+https://www.linkedin.com/in/vito-muhammad-nurhayat-157136185/
+Vitovmn@gmail.com
